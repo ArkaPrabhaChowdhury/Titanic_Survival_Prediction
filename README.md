@@ -1,10 +1,1 @@
-"# Fish_Weight_Prediction" 
-"# Fake_News_Detection" 
-"# Fake_News_Detection" 
-"# Fake_News_Detection" 
-"# Fake_News_Detection" 
-"# Fake_News_Detection" 
-"# Fake_News_Detection" 
-"# Fake_News_Detection" 
-"# Titanic_Survival_Prediction" 
-"# Titanic_Survival_Prediction" 
+Python Project that uses various algorithms in Machine Learning to predict whether a person will survive titanic or not.
